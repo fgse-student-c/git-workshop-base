@@ -1,6 +1,7 @@
 Raphaels neue Datei.
-Hallo Anna!
+Tschüss Raphael.
 Von Anna editiert.
 Hallo Raphael.
 
 Noch eine Änderung.
+Und jetzt einen Konflikt...
