@@ -1,3 +1,3 @@
 ﻿Git kann tolle Sachen.
-Ok, geändert.
+Gut, dann machen wir einen Konflikt.
 Aber man muss es üben.
